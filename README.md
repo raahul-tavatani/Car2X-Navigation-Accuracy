@@ -1,7 +1,7 @@
 # V2X Communication Validation Project
 
 ## Project Overview
-This project aims to validate the navigation accuracy and latency estimation for Vehicle-to-Everything (V2X) communications. We use ADMA SLim as the ground truth and employ sensor fusion algorithms to predict the geographical location of vehicles and pedestrians.
+This project aims to validate the navigation accuracy and latency estimation for Vehicle-to-Everything (V2X) communications. We use ADMA Slim as the ground truth and employ sensor fusion algorithms to predict the geographical location of vehicles and pedestrians.
 
 ## Objectives
 - **Validate Navigation Accuracy**: Ensure the precision of location data in V2X communications.
